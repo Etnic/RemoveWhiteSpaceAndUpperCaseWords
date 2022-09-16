@@ -1,0 +1,30 @@
+﻿Čaká na doplnenie
+Kontrola spotrebiča
+Naplánovaný termín kontroly
+Odmietnutá
+Odovzdané na výdaj
+Odporúčanie na premiestnenie
+Požiadavka o stanovisko
+Predspracovaná
+Prevzatá
+Schválená
+Schválená mimoriadna návšteva
+Schválená na kontrolu
+Schválená na spracovanie
+Schválená s úpravou
+Späťvzatá
+Späťvzatá na spracovanie
+Spracovaná
+Spracované stanovisko
+Spracované stanovisko nový ústav 1
+Spracované stanovisko nový ústav 2
+Spracované stanovisko poskytnutia odevu obuvi
+Spracovaný návrh stanoviska
+Určený termín vyšetrenia
+Uzavretá
+Vybavená
+Vyčíslené náklady na eskortu
+Zaevidovaná
+Zaevidovaná nový ústav 1
+Zaevidovaná nový ústav 2
+Zamietnutá
